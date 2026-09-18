@@ -1,3 +1,6 @@
 potato  
 carrot 
 lettuce
+potato 
+tomato 
+broccoli
